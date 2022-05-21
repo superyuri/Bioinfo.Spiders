@@ -1,0 +1,1 @@
+﻿npx playwright-cli codegen --target=csharp

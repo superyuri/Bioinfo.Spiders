@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMRBSpider.Consoles", "BMRBSpider.Consoles\BMRBSpider.Consoles.csproj", "{24E5DB68-B6B5-458F-B052-0B54F770A9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24E5DB68-B6B5-458F-B052-0B54F770A9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E5DB68-B6B5-458F-B052-0B54F770A9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E5DB68-B6B5-458F-B052-0B54F770A9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E5DB68-B6B5-458F-B052-0B54F770A9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D47916CB-2A16-4D70-97C5-1B91C19F083B}
+	EndGlobalSection
+EndGlobal
